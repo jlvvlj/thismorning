@@ -13,5 +13,3 @@ function rate(amount, interest)
 end
 
 end
-
-end
